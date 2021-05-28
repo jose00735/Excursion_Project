@@ -1,0 +1,59 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    background-color: black;
+}
+
+.phone {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.phone a{
+    font-size: 16px;
+    color: aquamarine;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.camping{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.camping h2{
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.camping h3{
+    font-size: 21px;
+    color: gray;
+}
+
+.camping a{
+    font-size: 16px;
+    color: aquamarine;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#tittle{
+    font-weight: normal;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#phone-icon{
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+footer h3{
+    color: gray;
+    text-align: right;
+    font-weight: 500;
+}
